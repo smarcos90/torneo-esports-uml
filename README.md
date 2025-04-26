@@ -45,6 +45,12 @@ torneo-esports-uml/
 
 
 ## Justificación del diseño
+### Casos de uso
+El administrador tiene completo control del sistema, pudiendo realizar las tareas de registro y consulta del listado de equipos y jugadores. 
+Al añadir un equipo obliga (include) a registrar jugadores dentro del equipo. Sin embargo, la consultar el listado de equipos no es obligatorio la consulta de jugadores (extends).
+
+### Diagrama de clases
+
 
 
 ## Conclusiones
